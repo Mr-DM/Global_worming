@@ -33,3 +33,19 @@
   </li>
 
 </ul>
+
+<h1>What library to use</h1>
+<ul>
+  <li>
+    pip install discord.py
+  </li>
+  <li>
+    pip install Flask (mabye)
+  </li>
+  <li>
+    pip install random
+  </li>
+  <li>
+    pip install time
+  </li>
+</ul>
