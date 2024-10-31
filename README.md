@@ -40,12 +40,9 @@
     pip install discord.py
   </li>
   <li>
-    pip install Flask (mabye)
+    import random
   </li>
   <li>
-    pip install random
-  </li>
-  <li>
-    pip install time
+    import time
   </li>
 </ul>
