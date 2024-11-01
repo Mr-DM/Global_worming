@@ -18,7 +18,7 @@
 </ul>
 <h1>On a discord Bot</h1>
 <ul>
-  <h3>Command start with $</h3>
+  <h3>Command start with !</h3>
   <li>
     random information global worming 
   </li>
