@@ -1,7 +1,7 @@
 # Global_worming
 <p>Global worming is a very famous problem</p>
 <p>My Idea is to do a site and discord bot </p>
-<h1>On a site</h1>
+
 <h1>On a discord Bot</h1>
 <ul>
   <h3>Command start with !</h3>
