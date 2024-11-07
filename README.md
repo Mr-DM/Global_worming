@@ -1,34 +1,25 @@
 # Global_worming
-<p>Global worming is a very famous problem</p>
-<p>My Idea is to do a site and discord bot </p>
+<p>Глобалное потепления это очень популарноя проблема</p>
+<p>Моя идея была создать Дискорд Бота </p>
 
-<h1>On a discord Bot</h1>
+<h1>В ДС Боте</h1>
 <ul>
-  <h3>Command start with !</h3>
+  <h3>Команда начиняется через!</h3>
   <li>
-    random information global worming 
+    Информация про глобалное потепления
   </li>
   <li>
-     meme of global worming 
+     Мемы про глобалное потепления 
   </li>
   <li>
-    link to Site
-  </li>
-  <li>
-    random thing about what we can do to help
+    Рандомные решения и причины 
   </li>
 
 </ul>
 
-<h1>What library to use</h1>
+<h1>Какие Библеотеки</h1>
 <ul>
   <li>
     pip install discord.py
-  </li>
-  <li>
-    import random
-  </li>
-  <li>
-    import time
   </li>
 </ul>
